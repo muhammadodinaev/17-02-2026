@@ -266,12 +266,6 @@
   .bg-\[red\] {
     background-color: red;
   }
-  .bg-amber-400 {
-    background-color: var(--color-amber-400);
-  }
-  .bg-amber-500 {
-    background-color: var(--color-amber-500);
-  }
   .bg-amber-600 {
     background-color: var(--color-amber-600);
   }
@@ -280,13 +274,6 @@
   }
   .p-\[10px_20px\] {
     padding: 10px 20px;
-  }
-  .pt-10 {
-    padding-top: calc(var(--spacing) * 10);
-  }
-  .text-2xl {
-    font-size: var(--text-2xl);
-    line-height: var(--tw-leading, var(--text-2xl--line-height));
   }
   .text-\[26px\] {
     font-size: 26px;
